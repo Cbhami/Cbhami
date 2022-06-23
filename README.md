@@ -15,7 +15,7 @@ Welcome to my public repo! Here I have a list of projects I am working on. I hav
 
 My MapMyRun Projects are my original data analysis projects and I am happy to share my progress. My original data visualization with this dataset is the MapMyRun Dashboard located in the Power Bi project links below. I also have multiple jupyter notebooks where I have explored various EDA and ML techniques.
 
-###### Power Bi Projects
+##### Power Bi Projects
 
 [MapMyRun Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjUzZjU5ZDYtNmQ3ZC00MWMxLTk3OWMtZmIwNDM3YzM1NjMwIiwidCI6ImRkMjQ2ZTRhLTU0MzQtNGUxNS04YWUzLTkxYWQ5Nzk3YjIwOSIsImMiOjN9&pageName=ReportSection)
 
